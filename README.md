@@ -1,2 +1,3 @@
 # ALGO_STUDY
-This Repository is for 
+> This repository is for enhance understanding of data structure.
+> ALGO_STUDY contains basic data structure algorithms. 
